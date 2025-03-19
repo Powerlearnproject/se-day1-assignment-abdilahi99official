@@ -7,7 +7,7 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering refers to the structured application of engineering principles in software development process.
 .It facilitate the process of building software products hence pushing forward the tech industry.
-.It ensures that software products are effective and solve the intended real world problems.
+.It ensures that software products are effective and solve the intended real-world problems.
 .It also ensures that software products are less prone to bugs hence minimizing major tech disasters.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
